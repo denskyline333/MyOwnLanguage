@@ -1,0 +1,6 @@
+Main
+{
+exist string a;
+a = %;
+write(a);
+}

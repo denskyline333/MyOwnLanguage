@@ -1,0 +1,7 @@
+Main
+{
+MYLIB;
+MYLIB;
+exist integer a;
+write(a);
+}

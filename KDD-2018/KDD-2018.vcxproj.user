@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>KDD-2018.exe -in:D:\курсач\KDD-2018\KDD-2018\EKA-2017\test.txt -log:D:\курсач\KDD-2018\KDD-2018\EKA-2017\log.txt  -Gen:D:\курсач\KDD-2018\KDD-2018\EKA-2017\Gen.txt </LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>KDD-2018.exe -in:D:\курсач\KDD-2018\KDD-2018\KDD-2018\in.txt -log:D:\курсач\KDD-2018\KDD-2018\KDD-2018\log.txt -Final:D:\курсач\KDD-2018\KDD-2018\KDD-2018\Final.html</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+</Project>

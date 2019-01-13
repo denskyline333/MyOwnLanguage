@@ -1,0 +1,8 @@
+Main
+{
+exist integer a;
+exist integer b;
+a = 'assembler ;
+b = 1;
+write(a);
+}

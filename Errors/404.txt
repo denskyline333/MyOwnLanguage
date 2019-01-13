@@ -1,0 +1,6 @@
+Main
+{
+exist string str;
+str =  str * 3;
+write(str);
+}

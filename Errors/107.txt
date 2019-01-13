@@ -1,0 +1,7 @@
+Main
+{
+exist integer a;
+exist integer a;
+a = 333;
+write(a);
+}

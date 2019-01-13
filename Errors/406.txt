@@ -1,0 +1,12 @@
+integer function fi(integer a, string b)
+{
+return a;
+}
+
+Main
+{
+exist integer a;
+exist integer b;
+a = 333;
+b = fi(a);
+}

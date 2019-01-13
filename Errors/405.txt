@@ -1,0 +1,12 @@
+string function fs(string a)
+{
+exist integer b;
+return b;
+}
+
+Main
+{
+exist string a;
+a = 'hello';
+a = fs(a);
+}

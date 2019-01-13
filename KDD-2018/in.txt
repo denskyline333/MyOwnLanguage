@@ -1,0 +1,49 @@
+string function fs(string a)
+{
+write(a);
+return a;
+}
+
+integer function fi(integer a, integer b)
+{
+exist integer c;
+c = 4*(a-b)+a*b;
+return c;
+}
+
+Main
+{
+MYLIB;
+
+exist integer one;
+exist integer two;
+exist integer result;
+exist integer lent;
+exist string sub;
+exist string test;
+exist string rep;
+exist string call;
+
+sub = 'deniskalach';
+one = 3;
+two = -4;
+
+test = substr(sub,0,5);
+lent = length(sub);
+rep = replace(sub,'deniskalach','kalachdenis');
+
+write(sub);
+write(' Length is ','next');
+write(lent);
+write(' Substring is ');
+write(test);
+write(' Replace is ');
+write(rep);
+
+result = fi(one, two);
+write(' Function test ');
+write(result);
+
+one = 16+ 4*13/2 +length(sub) -65000;
+write(' Result is ',one);
+}

@@ -1,0 +1,6 @@
+Main
+{
+exist integer g;
+g = a + 2;
+write(g);
+}

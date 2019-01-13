@@ -1,0 +1,15 @@
+integer function s(integer a)
+{
+exist integer b;
+b=1;
+return b;
+}
+
+Main
+{
+exist integer a;
+exist integer s;
+s=3;
+a=s(3);
+write(a);
+}

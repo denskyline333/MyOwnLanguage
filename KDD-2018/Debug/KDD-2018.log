@@ -1,0 +1,4 @@
+﻿  IdentfTable.cpp
+d:\курсач\kdd-2018\kdd-2018\kdd-2018\identftable.cpp(41): error C2059: синтаксическая ошибка: )
+d:\курсач\kdd-2018\kdd-2018\kdd-2018\identftable.cpp(41): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+d:\курсач\kdd-2018\kdd-2018\kdd-2018\identftable.cpp(42): error C2059: синтаксическая ошибка: ;

@@ -1,0 +1,12 @@
+integer function fi(integer a, integer b)
+
+Main
+{
+exist integer a;
+exist integer b;
+exist integer c;
+a = 554 ;
+b = 877;
+c = fi(a, b);
+write(c);
+}

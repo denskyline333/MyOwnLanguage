@@ -1,0 +1,12 @@
+integer function f(integer a, string b)
+{
+return a;
+}
+
+Main
+{
+exist integer a;
+exist integer b;
+a = 333;
+a = f(a,b);
+}

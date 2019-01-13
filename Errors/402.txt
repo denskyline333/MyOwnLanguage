@@ -1,0 +1,9 @@
+Main
+{
+exist string a;
+exist string b;
+
+a = 'hello';
+b = substr(a,0,2);
+
+}

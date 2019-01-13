@@ -1,0 +1,14 @@
+integer function fi(integer a, integer b)
+{
+exist integer c;
+exist integer d;
+c = 1 + d;
+return c;
+}
+
+Main
+{
+exist integer x;
+x = fi;
+write(x);
+}

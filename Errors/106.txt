@@ -1,0 +1,8 @@
+Main
+{
+exist integer a;
+exist integer b;
+b = 1;
+a == b;
+write(a);
+}

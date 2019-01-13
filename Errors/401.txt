@@ -1,0 +1,7 @@
+Main
+{
+exist integer a;
+exist string b;
+a = 45;
+b = a;
+}
